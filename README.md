@@ -4,7 +4,7 @@ I'm [daplocces](https://github.com/daplocces) a software engineer based in West-
 
 I have a **huge passion** for the IT branch and for the upcoming AI technologies.
 
-I've been programming especially on Visual Studio Code, Godot & Roblox for quite some time now. I tend to make projects about really anything I imagine during anything. 
+I've been programming especially on Visual Studio Code, Godot & Roblox for quite some time now. I create projects based on whatever pops into my head throughout the day. 
 
 As of right now, I dare you to checkout my favourite repository [ollama-chatbot](https://github.com/daplocces/ollama-chatbot)
 
