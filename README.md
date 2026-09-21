@@ -8,7 +8,7 @@ I've been programming especially on Visual Studio Code, Godot & Roblox for quite
 
 As of right now, I dare you to checkout my favourite repository [ollama-chatbot](https://github.com/daplocces/ollama-chatbot)
 
-Feel free to contact me trough my e-mail **during my working hours**.
+Feel free to contact me trough my e-mail **during my waking hours**.
 
 <!--
 **daplocces/daplocces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
