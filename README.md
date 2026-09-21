@@ -2,7 +2,7 @@
 
 I'm [daplocces](https://github.com/daplocces) a software engineer based in West-Germany.
 
-I have a huge passion for the IT branch and for the upcoming AI technologies.
+I have a **huge passion** for the IT branch and for the upcoming AI technologies.
 
 <!--
 **daplocces/daplocces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
